@@ -1,10 +1,10 @@
-互联网医院简介
+﻿互联网医院简介
 ==============
 
 近年来，医疗服务领域新形态不断涌现，“互联网+医疗”作为其中突出的一种，在挂号结算、远程诊疗、咨询服务等方面进行了不少探索。2018年，国务院办公厅印发《关于促进“互联网+医疗健康”发展的意见》，提出允许医疗机构开展部分常见病、慢性病复诊等互联网医疗服务，为“互联网+医疗健康”明确了发展方向。
 
 “互联网医院带有咨询、随访、慢病管理等功能，它有实体医院作强有力的支撑，线上方便病人，就是简单的问题不需要到医院，在网上就可以进行。如一位高血压病人需继续用药，就可以在网上进行。实际上是线上跟线下紧密结合，满足病人多元化的需求。
 
-<video id="video" width="700px" height="400px" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg"> <source id="mp4" src="./images/Video.mp4" type="video/mp4"> </video>
+<video id="video" width="700px" height="400px" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg"> <source id="mp4" src="images/Video.mp4" type="video/mp4"> </video>
 
 深圳新元素大健康集团给您不一样的互联网医院建设体验。
